@@ -15,9 +15,11 @@ It is recommended to create a virtual environment. To do so, open the terminal i
 python -m venv venv
 
 If needed, activate the virtual environment:
+
 On Windows:
 
 .\venv\Scripts\activate
+
 On macOS/Linux:
 
 source venv/bin/activate
